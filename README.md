@@ -43,9 +43,8 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: (Add your link here)
-- 📧 Email: (Add your email here)
-- 🌐 Portfolio: (Add if you have one)
+- 💼 LinkedIn: https://www.linkedin.com/in/bijanshu-yadav-185a80342
+- 📧 Email: bijanshuyadav2005@gmail.com
 
 ---
 

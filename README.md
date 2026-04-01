@@ -37,8 +37,14 @@
 ---
 
 ## 📌 Projects
-🚧 *Coming Soon...*  
-*(You can add your projects here later)*
+✅ ToDo App (CRUD + Filter)
+🛍️ Shopping Cart (React Router)
+🌍 Disaster Damage Detection (Computer Vision)
+     - Built a Computer Vision model to detect and classify building damage using satellite imagery
+     - Worked with xView2 dataset for real-world disaster analysis
+     - Tech: Python, OpenCV, Deep Learning
+     🚀 Focus: Real-world emergency response & impact
+
 
 ---
 
@@ -56,3 +62,4 @@
 ---
 
 ⭐️ *“Keep Learning, Keep Building, Keep Growing.”*
+⭐ "Consistency beats talent"
